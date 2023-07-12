@@ -1,4 +1,4 @@
-/* SQL Project Portfolio part 2 using MSSM*/
+/* SQL Project Portfolio part 2  on NAshville Housing using MSSM*/
 
 -- 1. Cleaning data in SQL queries
 
